@@ -1,6 +1,6 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring-React - 3.0 / DevSuperior 
 
-[![NPM](https://img.shields.io/npm/l/react)]() 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RafaelCoFernandes/projeto-sds3/blob/master/LICENSE) 
 
 # Sobre o projeto
 
