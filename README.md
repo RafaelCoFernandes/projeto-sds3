@@ -86,4 +86,4 @@ yarn start
 
 Rafael Coelho Fernandes
 
-Linkedin: https://www.linkedin.com/in/rafael-fernandes-32304b187
+Linkedin: www.linkedin.com/in/rafael-fernandes-QA1997
