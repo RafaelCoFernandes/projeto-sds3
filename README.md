@@ -11,22 +11,27 @@ https://rafaelfernandes-sdevsuperior.netlify.app/
 A Semana Spring React - SDS 3.0 é uma aplicação Full Stack Web/Mobile construída durante a 3ª edição da **Semana DevSuperior** (#sds3), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 A aplicação consiste em organizar dados estatísticos de vendedores de uma determinada loja, amparado com gráficos e tabelas, bem como realizar comparações de desempenho entre eles.
 
+
 ## BackEnd (Spring)
 
-![Spring-React DevSuperior](https://user-images.githubusercontent.com/81786010/133176519-c5054094-c3b0-4a02-8438-739e1689f41b.png)
+<img src="https://user-images.githubusercontent.com/81786010/133176519-c5054094-c3b0-4a02-8438-739e1689f41b.png" alt="drawing" width="800"/>
 
 ## FrontEnd (React)
 
-![Layout](https://user-images.githubusercontent.com/81786010/133176361-a598b9db-15e3-4f2e-a7ce-0de07b2d0e2c.png)
+<img src="https://user-images.githubusercontent.com/81786010/133344762-620213fe-84f8-4260-8462-a96b7cd59e81.png" alt="drawing" width="800"/>
+
+## Layout (Aplicação implantada)
+
+<img src="https://user-images.githubusercontent.com/81786010/133176361-a598b9db-15e3-4f2e-a7ce-0de07b2d0e2c.png" alt="drawing" width="800"/>
 
 ## Modelo Conceitual
 
-![Modelo Conceitual](https://user-images.githubusercontent.com/81786010/133176643-ad753720-21d4-4d41-a7c5-68d5a929dc4a.png)
-
+<img src="https://user-images.githubusercontent.com/81786010/133176643-ad753720-21d4-4d41-a7c5-68d5a929dc4a.png" alt="drawing"/>
+  
 ## Padrão Camadas Adotado
-
-![Padrão Camadas](https://user-images.githubusercontent.com/81786010/133176633-1933e6ac-7a0b-4ab2-920e-4c9159934094.png)
-
+  
+<img src="https://user-images.githubusercontent.com/81786010/133176633-1933e6ac-7a0b-4ab2-920e-4c9159934094.png" alt="drawing"/>
+  
 # Tecnologias utilizadas
 ## Back End
 - Java
