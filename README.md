@@ -75,7 +75,7 @@ npm / yarn
 ```bash
 git clone https://github.com/RafaelCoFernandes/projeto-sds3.git
 ```
-## entrar na pasta do projeto frontend web
+## entrar na pasta do projeto frontend
 ```bash
 cd frontend
 ```
