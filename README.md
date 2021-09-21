@@ -56,34 +56,34 @@ A aplicação consiste em organizar dados estatísticos de vendedores de uma det
 - Pré-requisitos: 
 Java 11
 
-## clonar repositório
+- clonar repositório
 ```bash
 git clone https://github.com/RafaelCoFernandes/projeto-sds3.git
 ```
-## entrar na pasta do projeto backend
+- entrar na pasta do projeto backend
 ```bash
 cd backend
 ```
-## executar o projeto
+- executar o projeto
 ```bash
 ./mvnw spring-boot:run
 ```
 ## Front End
 - Pré-requisitos:
 npm / yarn
-## clonar repositório
+- clonar repositório
 ```bash
 git clone https://github.com/RafaelCoFernandes/projeto-sds3.git
 ```
-## entrar na pasta do projeto frontend
+- entrar na pasta do projeto frontend
 ```bash
 cd frontend
 ```
-## instalar dependências
+- instalar dependências
 ```bash
 yarn install
 ```
-## executar o projeto
+- executar o projeto
 ```bash
 yarn start
 ```
